@@ -1,0 +1,3 @@
+- Ref:
+	- [slides](https://projects.100xdevs.com/tracks/web-orientation/Web-Dev---Devops-Orientation-1)
+		- ![web2day1.png](../assets/web2day1_1722785071259_0.png)
